@@ -2,7 +2,7 @@
 Learn Java for Android with this library
 
 # Getting Started
-Open your terminal in clone this project:
+Open your terminal and clone this project:
 
 `git clone https://github.com/cutiko/LearnJava.git`
 
