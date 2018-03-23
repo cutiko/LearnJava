@@ -1,6 +1,21 @@
 # LearnJava
 Learn Java for Android with this library
 
+# Getting Started
+Open your terminal in clone this project:
+
+`git clone https://github.com/cutiko/LearnJava.git`
+
+Remember you can navigate forward using:
+
+`cd DIRECTORY_NAME`
+
+And backwards with:
+
+`cd ..`
+
+In Mac and Linux you can see the directory list with `ls` and in Windows with `dir`
+
 ## Challenges
 
 Create a package called models
